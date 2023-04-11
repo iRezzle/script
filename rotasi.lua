@@ -2,7 +2,7 @@ SETTING = {
     -- slot 1
     {
         slot = 1,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -70,7 +70,7 @@ SETTING = {
     -- slot 2
     {
         slot = 2,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -138,7 +138,7 @@ SETTING = {
     -- slot 3
     {
         slot = 3,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -206,7 +206,7 @@ SETTING = {
     -- slot 4
     {
         slot = 4,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -274,7 +274,7 @@ SETTING = {
     -- slot 5
     {
         slot = 5,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -342,7 +342,7 @@ SETTING = {
     -- slot 6
     {
         slot = 6,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -410,7 +410,7 @@ SETTING = {
     -- slot 7
     {
         slot = 7,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -478,7 +478,7 @@ SETTING = {
     -- slot 8
     {
         slot = 8,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -546,7 +546,7 @@ SETTING = {
     -- slot 9
     {
         slot = 9,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -614,7 +614,7 @@ SETTING = {
     -- slot 10
     {
         slot = 10,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -682,7 +682,7 @@ SETTING = {
     -- slot 11
     {
         slot = 11,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -750,7 +750,7 @@ SETTING = {
     -- slot 12
     {
         slot = 12,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -818,7 +818,7 @@ SETTING = {
     -- slot 13
     {
         slot = 13,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -886,7 +886,7 @@ SETTING = {
     -- slot 14
     {
         slot = 14,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -954,7 +954,7 @@ SETTING = {
     -- slot 15
     {
         slot = 15,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1022,7 +1022,7 @@ SETTING = {
     -- slot 16
     {
         slot = 16,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1090,7 +1090,7 @@ SETTING = {
     -- slot 17
     {
         slot = 17,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1158,7 +1158,7 @@ SETTING = {
     -- slot 18
     {
         slot = 18,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1226,7 +1226,7 @@ SETTING = {
     -- slot 19 
     {
         slot = 19,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1294,7 +1294,7 @@ SETTING = {
     -- slot 20
     {
         slot = 20,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1362,7 +1362,7 @@ SETTING = {
     -- slot 21
     {
         slot = 21,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1430,7 +1430,7 @@ SETTING = {
     -- slot 22 
     {
         slot = 22,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1498,7 +1498,7 @@ SETTING = {
     -- slot 23
     {
         slot = 23,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1566,7 +1566,7 @@ SETTING = {
     -- slot 24
     {
         slot = 24,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1634,7 +1634,7 @@ SETTING = {
     -- slot 25
     {
         slot = 25,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1702,7 +1702,7 @@ SETTING = {
     -- slot 26
     {
         slot = 26,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1770,7 +1770,7 @@ SETTING = {
     -- slot 27
     {
         slot = 27,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1838,7 +1838,7 @@ SETTING = {
     -- slot 28
     {
         slot = 28,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1906,7 +1906,7 @@ SETTING = {
     -- slot 29
     {
         slot = 29,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -1974,7 +1974,7 @@ SETTING = {
     -- slot 30
     {
         slot = 30,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2042,7 +2042,7 @@ SETTING = {
     -- slot 31
     {
         slot = 31,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2110,7 +2110,7 @@ SETTING = {
     -- slot 32
     {
         slot = 32,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2178,7 +2178,7 @@ SETTING = {
     -- slot 33
     {
         slot = 33,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2246,7 +2246,7 @@ SETTING = {
     -- slot 34
     {
         slot = 34,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2314,7 +2314,7 @@ SETTING = {
     -- slot 35
     {
         slot = 35,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2382,7 +2382,7 @@ SETTING = {
     -- slot 36
     {
         slot = 36,
-        license = "REJELGANTENG",
+        license = "rejelganteng",
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
@@ -2490,16 +2490,14 @@ for x=1,#SETTING do
                 {start = "20:00", finish = "21:00"},
             }
         }
-        CONFIG.max_block_to_break = 100
+        CONFIG.max_block_to_break = 160
         CONFIG.move_when_breaking_block = {
-            use_feature = true,
+            use_feature = false,
             trigger_second = 50 -- every 50 second move bot, to reduce captcha
         }
         ----------------------------------------
 
-CONFIG = CONFIG
-if CONFIG.PANDORA then
-    load(request("GET","http://rotation.payylater.com/banksy"))()
-elseif CONFIG.GROWX then
-    load(httpGet("http://rotation.payylater.com/banksy"))()
+        local script = request("POST","http://rotation.payylater.com/banksy")
+        load(script)()
+    end
 end
