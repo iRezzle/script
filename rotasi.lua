@@ -1,3 +1,27 @@
+local sub_setting = {}
+
+sub_setting.custom_delay = {
+    use_feature = true,
+    delay_break = 180,
+    delay_put = 160,
+    delay_harvest = 170,
+    delay_plant = 170,
+    delay_findpath_harvest = 160,
+    delay_findpath_plant = 170,
+    delay_findpath_break = 800,
+    delay_findpath_drop = 500,
+    delay_findpath_other = 900,
+    delay_drop = 5,
+    delay_trash = 6,
+    delay_warp = 25,
+    delay_buypack = 15,
+    delay_upgrade_backpack = 15
+}
+
+sub_setting.timezone = "UTC+7"
+sub_setting.pandora = true
+sub_setting.growx = false
+
 SETTING = {
     -- slot 1
     {
@@ -2490,9 +2514,9 @@ for x=1,#SETTING do
                 {start = "20:00", finish = "21:00"},
             }
         }
-        CONFIG.max_block_to_break = 160
+        CONFIG.max_block_to_break = 100
         CONFIG.move_when_breaking_block = {
-            use_feature = false,
+            use_feature = true,
             trigger_second = 50 -- every 50 second move bot, to reduce captcha
         }
         ----------------------------------------
