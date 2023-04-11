@@ -1,6 +1,6 @@
 -- CHECK WORLD
 
-farmList = {"OMYBQ","UXMXW","EYLBS","UXMXH","KHYGC","UQLNX","OUVSB","JMYRF","FPGVB","ALYNJ","DTIBB","SLBMX","XMAZEF","ZXIHM","ZIIAB","KXOHW","QGYOL","PZEIC","WDUZH","PQEJG","HAHAHZ29","FRSOG","FRNOG","DZUQG","FJYDB","XFUPS","CWQWL","QTFCW","SQJUV","QNMYM","VOWVU","EDIVR","CWVJM","XNEHG","TRKLI","KXOHX","PMLKN","QYEIU","WZEQF","QTFCZ","TOVNV","JXSYJ","QTFCT","DLNKL","SMQQI","HRWDC", "ISXGM","SHSGWY1","CJGCV","KM325","EHBIY","GSZFZ", "NDUGS","KEJWA","NCFZU", "CLVAE","LTFOG","OLTRG","NUQPF","JGBJQ","UMRNT","NIZBT","DAJYD","CXSIV","WTNJR","HKNEX","HTHCO","ZFQTQ","RWJQH","HDPXA", "RXDRB","VTXSH","UXMXZ","TPJUY","QTHBA","TJRZJ","QZWRN","IBBRV","PYRJG","QAVXI","BPLLJ","EFFWN","WSWFG","GOYXM","KLKSZ"}
+farmList = {}
 tree = 4585 --SEED ID
 webhookel = "https://discord.com/api/webhooks/1045224935150329857/MV6_pODRPo6ZwkPUBO5MU1wh9orfl5WGvpddoAYq8azNOAPrL3OtKgjrjpaNg7tJn35a"
 
@@ -36,7 +36,7 @@ end
 
 function webhookeli(status)
     local wh = {}
-    wh.url = webhook
+    wh.url = webhookel
     wh.username = "Rezzle | CHECK FARM"
     wh.content = status
     webhook(wh)
@@ -47,7 +47,7 @@ local foundNukedFarm = false --[ DON'T CHANGE!!! ]--
 local total = 0
 local hah = 0
 local NUKED = false --[ DON'T CHANGE!!! ]--
-webhookeli("@everyone `SCRIPT CHECK FARM MADE By : `<@895235665980194816>")
+webhookeli("@everyone `SCRIPT CHECK FARM MADE By : `<@315051522918580224>")
 for i = 1, #farmList do
     while getBot().world ~= farmList[i]:upper() and not NUKED do
         sendPacket(3, "action|join_request\nname|"..farmList[i].."\ninvitedWorld|0")
