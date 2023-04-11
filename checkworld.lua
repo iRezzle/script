@@ -1,6 +1,4 @@
 -- CHECK WORLD
-
-farmList = {}
 tree = 4585 --SEED ID
 webhookel = "https://discord.com/api/webhooks/1045224935150329857/MV6_pODRPo6ZwkPUBO5MU1wh9orfl5WGvpddoAYq8azNOAPrL3OtKgjrjpaNg7tJn35a"
 
