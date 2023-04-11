@@ -1570,7 +1570,7 @@ SETTING = {
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
-            "QYEIU","WZEQF","QTFCZ","TOVNV","JXSYJ","QTFCT","DLNKL","SMQQI","HRWDC", "ISXGM","SHSGWY1","CJGCV"
+            "QYEIU","WZEQF","QTFCZ","TOVNV","JXSYJ","QTFCT","DLNKL","SMQQI","HRWDC","CJGCV"
         },
         farm_world_id = "HAJIME55",
         storage_seed = "KENJUTUT",
@@ -1638,7 +1638,7 @@ SETTING = {
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
-            "KM325","EHBIY","GSZFZ", "NDUGS","KEJWA","NCFZU", "CLVAE","LTFOG","OLTRG","NUQPF","JGBJQ","UMRNT"
+            "KM325","EHBIY","GSZFZ", "NDUGS","KEJWA","NCFZU", "CLVAE","LTFOG","OLTRG","UMRNT"
         },
         farm_world_id = "HAJIME55",
         storage_seed = "KENJUTUT",
@@ -1706,7 +1706,7 @@ SETTING = {
         itemid = 4584,
         pack = "world_lock",
         farm_world = {
-            "NIZBT","DAJYD","CXSIV","WTNJR","HKNEX","HTHCO","ZFQTQ","RWJQH","HDPXA", "RXDRB","VTXSH","UXMXZ"
+            "NIZBT","DAJYD","CXSIV","WTNJR","HKNEX","HTHCO","ZFQTQ","RWJQH","HDPXA", "RXDRB","UXMXZ"
         },
         farm_world_id = "HAJIME55",
         storage_seed = "KENJUTUT",
